@@ -1,0 +1,32 @@
+########################
+Processing
+########################
+Tonality (#,b)
+Register (C1,C2,C3)
+Decibel (db)
+Intervale of precision
+
+
+
+########################
+Partition
+########################
+Tonality (#,b)
+Register (C1,C2,C3)
+Measure (based on timeSignature)
+Note
+Rythmn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
